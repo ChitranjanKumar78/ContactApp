@@ -1,4 +1,5 @@
 # Contacts
+
 Simple and easy contacts and call log application.
 
 Features:-
@@ -9,5 +10,31 @@ Features:-
 5. Delete contacts
 6. Send SMS
 
-Snapshots are available in "Contacts/app/src/main/res/ScreenShots" folder.
+Screenshot of Homapage Screen
+
+<img
+     src="https://github.com/ChitranjanKumar78/ContactApp/blob/master/app/src/main/java/com/chitranjank/apps/contacts/ScreenShots/homepage.png"
+     width="300" 
+     height="600">
+     
+Screenshot of Add New Contact Screen
+
+<img
+     src="https://github.com/ChitranjanKumar78/ContactApp/blob/master/app/src/main/java/com/chitranjank/apps/contacts/ScreenShots/addnewcontact.png"
+     width="300" 
+     height="600">
+
+Screenshot of Call History Screen
+
+<img
+     src="https://github.com/ChitranjanKumar78/ContactApp/blob/master/app/src/main/java/com/chitranjank/apps/contacts/ScreenShots/callhistory.png"
+     width="300" 
+     height="600">
+     
+Screenshot of Send SMS Screen
+
+<img
+     src="https://github.com/ChitranjanKumar78/ContactApp/blob/master/app/src/main/java/com/chitranjank/apps/contacts/ScreenShots/sendsms.png"
+     width="300" 
+     height="600">
 
