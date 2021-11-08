@@ -37,4 +37,3 @@ Screenshot of Send SMS Screen
      src="https://github.com/ChitranjanKumar78/ContactApp/blob/master/app/src/main/java/com/chitranjank/apps/contacts/ScreenShots/sendsms.png"
      width="300" 
      height="600">
-
